@@ -7,4 +7,52 @@ body {
 background-image: url(img/bkg.png);
 background-size: 20px;
 background-attachment: fixed;
+color: white;
+font-family: Gotham Pro, serif;
+}
+
+@font-face {
+    font-weight: light;
+    font-family: Gotham Pro;
+    src: url("font/gothampro_light.ttf");
+}
+
+@font-face {
+    font-weight: normal;
+    font-family: Gotham Pro;
+    src: url("font/gothampro.ttf");
+}
+
+@font-face {
+    font-weight: medium;
+    font-family: Gotham Pro;
+    src: url("font/gothampro_medium.ttf");
+}
+
+@font-face {
+    font-weight: bold;
+    font-family: Gotham Pro;
+    src: url("font/gothampro_bold.ttf");
+}
+
+@font-face {
+    font-weight: black;
+    font-family: Gotham Pro;
+    src: url("font/gothampro_black.ttf");
+}
+
+A {
+    color: red;
+}
+
+A:visited {
+    color: red;
+}
+
+A:active {
+    color: black;
+}
+
+A:hover {
+    color: white;
 }
