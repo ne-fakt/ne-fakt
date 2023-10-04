@@ -5,6 +5,7 @@ background-color: black;
 
 body {
 background-image: url(img/bkg.png);
+background-color: black;
 background-size: 20px;
 background-attachment: fixed;
 color: white;
