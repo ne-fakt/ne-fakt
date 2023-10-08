@@ -43,11 +43,11 @@ font-family: Gotham Pro, serif;
 }
 
 A {
-    color: red;
+    color: #818181;
 }
 
 A:visited {
-    color: red;
+    color: #818181;
 }
 
 A:active {
@@ -58,6 +58,7 @@ A:hover {
     color: white;
 }
 
+/* The sidebar menu */
 .sidenav {
     height: 160px;
     width: 180px;
